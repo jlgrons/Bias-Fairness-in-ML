@@ -7,4 +7,4 @@
   * [bias in real life](https://www.science.org/doi/abs/10.1126/science.aax2342)
   * [early fairness paper](https://arxiv.org/pdf/1805.12002.pdf)
   * [overview paper](https://fairware.cs.umass.edu/papers/Verma.pdf)
-  * [overview paper(https://www.nature.com/articles/s41598-022-07939-1) - See references therein
+  * [overview paper](https://www.nature.com/articles/s41598-022-07939-1) - See references therein
