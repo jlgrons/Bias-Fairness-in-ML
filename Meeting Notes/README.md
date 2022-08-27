@@ -10,3 +10,4 @@
   * [overview paper](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-042720-125902)
   * [overview paper](https://fairware.cs.umass.edu/papers/Verma.pdf)
   * [overview paper](https://www.nature.com/articles/s41598-022-07939-1) - See references therein
+* A comparative analysis of the various metrics can be found in this [paper](https://arxiv.org/pdf/2001.07864.pdf)
