@@ -2,7 +2,7 @@
 
 ## Overview
 
-This course aims to provide an introduction to topics and bias and fairness in machine learning (ML), with a particular emphasis on applications in healthcare.  As a starting point, we will consider the classical measurement error and misclassification literature.  We will then move on to some more contemporary work.  Ultimately, we will write a tutorial papers for an informatics audience on the topic. You will be responsible for doing the literature review, writing the paper, running data analysis and making all code available on GitHub.
+This course aims to provide an introduction to topics and bias and fairness in machine learning (ML), with a particular emphasis on applications in healthcare.  As a starting point, we will do a thorough review of the literature.  We will then write a tutorial paper for an informatics audience on the topic. You will be responsible for doing the literature review, writing the paper, running data analysis, and making all code available on GitHub.
 
 
 | Week | Assignment                            |
