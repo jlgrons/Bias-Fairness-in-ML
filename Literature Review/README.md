@@ -1,3 +1,3 @@
 # Literature review
 
-Please create an overleaf document, share it with my utoronto email, and add the link here.
+Link to overleaf document: https://www.overleaf.com/read/vfrthhnyrgqg 
