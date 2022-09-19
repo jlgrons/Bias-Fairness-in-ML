@@ -8,11 +8,11 @@ This course aims to provide an introduction to topics and bias and fairness in m
 | Week | Assignment                            |
 |------|---------------------------------------|
 | 1    | [bias in real life](https://www.science.org/doi/abs/10.1126/science.aax2342); [early fairness paper](https://arxiv.org/pdf/1805.12002.pdf)  |
-| 2    |   [overview paper](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-042720-125902)     |
-| 3   | [overview paper](https://fairware.cs.umass.edu/papers/Verma.pdf)|
-| 4   |   [overview paper](https://www.nature.com/articles/s41598-022-07939-1) - See references therein                      |
-| 5 |    [comparative analysis](https://arxiv.org/pdf/2001.07864.pdf)  |
-| 6   |    Finish literature review summary                          |
+| 2    |   [overview paper](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-042720-125902); [overview paper](https://arxiv.org/pdf/1701.08230.pdf)     |
+| 3   | [overview paper](https://fairware.cs.umass.edu/papers/Verma.pdf);  [overview paper](https://www.nature.com/articles/s41598-022-07939-1) - See references therein |
+| 4   |      [comparative analysis](https://arxiv.org/pdf/2001.07864.pdf); Outline introduction               |
+| 5 |   Finish literature review summary; Outline paper  |
+| 6   |   Outline paper                      |
 | 7    | READING WEEK                                          |
 | 8    | Outline paper |
 | 9    |  Draft methods section                             |
