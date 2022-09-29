@@ -26,6 +26,8 @@ This course aims to provide an introduction to topics and bias and fairness in m
 ## Resources
 
 * [Calibration tutorial example](https://academic.oup.com/jamia/article/27/4/621/5762806)
+* [Phenotype Annotation Dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5813927/)
+* [Physionet Data](https://physionet.org)
 
 
 ## Marking
