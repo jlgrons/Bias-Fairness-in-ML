@@ -30,6 +30,7 @@ This course aims to provide an introduction to topics and bias and fairness in m
 * [Physionet Data](https://physionet.org)
 * [Recent phenotyping Review](https://www.medrxiv.org/content/10.1101/2022.04.23.22274218v3.full.pdf)
 * [Chexclusion](https://arxiv.org/pdf/2003.00827.pdf)
+* [Fairness](https://dl.acm.org/doi/pdf/10.1145/3097983.3098095)
 
 
 ## Marking
