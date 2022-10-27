@@ -29,3 +29,12 @@
 
 ## 10/13/22
 * Discuss [presentation](https://github.com/jlgrons/Healthcare-DataScience-Reading-Group/tree/main/Fall%202022%20Slides)
+
+## 10/27/22
+* Research project course is the same form as the reading group, they didn't ask for anything else so I can forward you the email and we can submit that as a course so I can continue in the Winter
+* For the statistical metrics section, do we want definitions described in words or just formulas? Are we using phenotyping as the main example because I can add in a sentence on how to interpret each metric with regards to the example?
+* Should I change the example in the metric definitions to be the phenotyping example?
+* I restructured a bit, I added a Background section with subsections for our simulated data, notation, the metrics and then we can go into the three metrics we consider
+* Next Steps:
+    * Write calibration section
+    * When should we start working on the simulated study? 
