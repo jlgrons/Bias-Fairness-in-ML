@@ -45,3 +45,4 @@
     * Finishing completing the table
     * Updating example with phenotyping 
     * Calibration section
+* Jesse: paper to read for [context](https://www.sciencedirect.com/science/article/pii/S1532046420302495)
