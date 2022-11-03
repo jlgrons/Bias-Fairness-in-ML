@@ -41,7 +41,6 @@
     
  ## 11/03/22
 * Should we keep the title as predictive parity if I am adding all of these other metrics to it? Should our sections be similar to the fairness paper? What is the difference to the fairness paper besides the example? 
-* Should I change the example in the metric definitions to be the phenotyping example?
 * Next Steps:
     * Finishing completing the table
     * Updating example with phenotyping 
