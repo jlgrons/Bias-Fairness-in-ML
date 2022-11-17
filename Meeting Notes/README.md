@@ -55,7 +55,7 @@
 * Questions about incompatibility of metrics section:
     * In _A clarification of the nuances in the fairness metrics landscape_, they discuss that separation and suffiency are incompatible if the distribution of (A, S, Y) is strictly positive - what does that mean? 
     * How should we format this section? Should I begin with the COMPAS example since that originates this discussion? Should I list conditions under which certain metrics are incompatible? Should we show any mathematics for this? 
-    * I figured we would show how some definitions don't hold simultaneously using the simulation but should we show other examples? Sho
+    * I figured we would show how some definitions don't hold simultaneously using the simulation but should we show other examples? 
 * Interested in helping with other projects to try and figure out what type of research I'd like to pursue for a PhD 
 
 
