@@ -57,5 +57,5 @@
     * How should we format this section? Should I begin with the COMPAS example since that originates this discussion? Should I list conditions under which certain metrics are incompatible? Should we show any mathematics for this? 
     * I figured we would show how some definitions don't hold simultaneously using the simulation but should we show other examples? 
 * Interested in helping with other projects to try and figure out what type of research I'd like to pursue for a PhD 
-
+* Simulation Study: Reviewed the calibration tutorial and how they created their simulation study as a starting point to discuss further during meeting
 
