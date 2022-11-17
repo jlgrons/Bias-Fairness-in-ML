@@ -46,3 +46,12 @@
     * Updating example with phenotyping 
     * Calibration section
 * Jesse: paper to read for [context](https://www.sciencedirect.com/science/article/pii/S1532046420302495)
+
+## 11/17/22
+* Paper updates:
+    * Finished the table - not sure if the indicator functions are the best way to define the empirical estimates
+    * Updated the metrics section to include definition, intuition and example 
+    * Started working on the incompatibility of metrics section
+* Interested in helping with other projects to try and figure out what type of research I'd like to pursue for a PhD 
+
+
