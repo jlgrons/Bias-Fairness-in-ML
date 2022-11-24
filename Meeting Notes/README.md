@@ -59,3 +59,10 @@
 * Interested in helping with other projects to try and figure out what type of research I'd like to pursue for a PhD 
 * Simulation Study: Reviewed the calibration tutorial and how they created their simulation study as a starting point to discuss further during meeting
 
+## 11/24/22
+* Updates: 
+    * Written an outline for introduction
+    * Created the fairness metrics R file (HelperFunctions)
+    * Started to work on DataGeneration → in the R code in the repo, it uses logit and the gumbel → wanted to know the logic behind that and if we follow similar logic for our model?
+    * Created a run_simulation R file and Rmd file
+    * What model are we going to use for prediction? 
