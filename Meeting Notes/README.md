@@ -66,3 +66,18 @@
     * Started to work on DataGeneration → in the R code in the repo, it uses logit and the gumbel → wanted to know the logic behind that and if we follow similar logic for our model?
     * Created a run_simulation R file and Rmd file
     * What model are we going to use for prediction? 
+    
+## 12/03/22
+* Updates
+    * Updated the edits from overleaf and created references (but isn't generating so looking into that)
+    * Updated all of the code so it can run the simulations and create the plots
+    * Setup the simulation R markdown file with all of the setting
+    * Started to play around with the different means
+* Questions
+    * TPR isn't getting lower than 0.91 of how different I make the means, mainly keep getting 1.0 for both TPR0 and TPR1 though
+    * Want to confirm that I understand the simulation right
+* Next week:
+    * Write introduction
+    * Finish up these simulations (200 simulations? for each setting?)
+ * Future work: 
+    * Should I be rewriting the proofs for the SI or citing the proofs from the previous papers to show the incompatibility metrics?
