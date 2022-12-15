@@ -86,10 +86,10 @@
 * Updates:
     * Tried the simulations from the example in Jenny's repo
     - TPR was 0.85 and 0.6 respectively for TPR_0 but TPR_1 was a different value, is this what we are hoping for?
+    - For the transformed model, do we want to be using the same means as in setting 1 or are we tuning this so that TPR is 0.85 and TPR is 0.6 respectively? (For setting 1)
     - What metrics do we want to see from the simulation? I was going to write the code to run it for 200 simulations today and I noticed in the Infairness-Project repo, we report on bias, standard error, etc?
-    - 
 * Next week:
     * Finish working on setting 2
-    * Going to rewrite the proofs for the SI 
+    * Rewriting the proofs for the SI 
     * Ethics course
 
