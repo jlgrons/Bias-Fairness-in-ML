@@ -81,3 +81,15 @@
     * Finish up these simulations (200 simulations? for each setting?)
  * Future work: 
     * Should I be rewriting the proofs for the SI or citing the proofs from the previous papers to show the incompatibility metrics?
+
+## 12/15/22
+* Updates:
+    * Tried the simulations from the example in Jenny's repo
+    - TPR was 0.85 and 0.6 respectively for TPR_0 but TPR_1 was a different value, is this what we are hoping for?
+    - What metrics do we want to see from the simulation? I was going to write the code to run it for 200 simulations today and I noticed in the Infairness-Project repo, we report on bias, standard error, etc?
+    - 
+* Next week:
+    * Finish working on setting 2
+    * Going to rewrite the proofs for the SI 
+    * Ethics course
+
