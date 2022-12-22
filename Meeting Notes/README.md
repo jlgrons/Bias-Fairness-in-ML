@@ -93,3 +93,10 @@
     * Rewriting the proofs for the SI 
     * Ethics course
 
+
+## 01/12/22
+* Updates:
+    * Updated metrics to cover all definitions of fairness 
+* Questions:
+    * How do we calculate the metrics for calibration? Esp. if dependent on score? 
+
