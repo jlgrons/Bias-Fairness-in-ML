@@ -1,5 +1,8 @@
 # Meeting Notes
 
+For Winter 2023, please keep updates in this [doc](https://docs.google.com/document/d/1wOKHWcovXfdlp3oWDW5e-AN1e1UCKRWiIw2uaynXlKI/edit?usp=sharing) and update by 10pm the night before we meet.
+
+
 ## 08/16/22
 
 * Papers to review:
