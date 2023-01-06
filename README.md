@@ -1,5 +1,35 @@
 # Bias and Fairness in ML Reading Course
 
+## Overview (Winter 2023)
+
+This course aims to provide an introduction to topics and bias and fairness in machine learning (ML), with a particular emphasis on applications in healthcare.  You will write a tutorial paper for an informatics audience on the topic. You will be responsible for doing the literature review, writing the paper, running data analysis, and making all code available on GitHub.
+
+
+| Week | Assignment                            |
+|------|---------------------------------------|
+| 1    | UTOPIAN Data Access; Simulation Study Design |
+| 2    |  Simulation Study Design; Edit Draft   |
+| 3   |  Simulation Study; Write Intro |
+| 4   |   Simulation Study; Supplementary Materials             |
+| 5 |     Simulation Study; Supplementary Materials   |
+| 6   |   Simulation Study; Edit Draft                  |
+| 7    | READING WEEK                                          |
+| 8    | Run Real Data Analysis |
+| 9    |  Run Real Data Analysis                            |
+| 10   | Run Real Data Analysis; Edit Draft                                      |
+| 11   |          Edit Draft                         |
+| 12   |Edit Draft                               |
+| 13   | Submit Manuscript            |
+
+
+## Marking (Winter 2023)
+
+* Weekly Manuscript Check: 35% 
+* Simulation Studies: 30% (Feb 15)
+* Real Data Analysis: 40%  (March 30)
+
+
+
 ## Overview (Fall 2022)
 
 This course aims to provide an introduction to topics and bias and fairness in machine learning (ML), with a particular emphasis on applications in healthcare.  As a starting point, we will do a thorough review of the literature.  We will then write a tutorial paper for an informatics audience on the topic. You will be responsible for doing the literature review, writing the paper, running data analysis, and making all code available on GitHub.
@@ -22,6 +52,13 @@ This course aims to provide an introduction to topics and bias and fairness in m
 | 13   | Write introduction and discussion            |
 
 
+## Marking (Fall 2022)
+
+* Literature review: 30% (Oct 15)
+* Data analysis: 30% (Dec 15)
+* Manuscript draft: 40%  (Dec 15)
+
+
 
 ## Resources
 
@@ -32,10 +69,3 @@ This course aims to provide an introduction to topics and bias and fairness in m
 * [Chexclusion](https://arxiv.org/pdf/2003.00827.pdf)
 * [Fairness](https://dl.acm.org/doi/pdf/10.1145/3097983.3098095)
 * [Journal Guidelines](https://academic.oup.com/jamia/pages/General_Instructions)
-
-
-## Marking
-
-* Literature review: 30% (Oct 15)
-* Data analysis: 30% (Dec 15)
-* Manuscript draft: 40%  (Dec 15)
